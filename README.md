@@ -8,9 +8,15 @@ These plate STL's only include the GitHub file versions up to the last commit da
 # Voron Print Guidelines
 
 Material              ABS or ABS+ Only
+
 Layer Height          0.2mm
+
 Extrusion Width       Forced 0.4mm
+
 Infill Percentage     40% Minimum
+
 Infil Type            Grid, Gyroid, Honeycomb, Triangle or Cubic
+
 Wall Count            4 Minimum
+
 Solid Top/Bottom      5 Minimum
