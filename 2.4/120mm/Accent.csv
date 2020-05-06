@@ -1,0 +1,35 @@
+plate,part,posX,posY,rotation
+1,C:\Users\Square\Desktop\Voron Project\Voron-2-Voron2.4\STLs\VORON2.4\Gantry\[a]_z_belt_clip_upper_x4.stl,14,10,180
+1,C:\Users\Square\Desktop\Voron Project\Voron-2-Voron2.4\STLs\VORON2.4\Gantry\X_Axis\X Carriage\[a]_belt_clamp_x2.stl,37.5,5,90
+1,C:\Users\Square\Desktop\Voron Project\Voron-2-Voron2.4\STLs\VORON2.4\Gantry\[a]_z_belt_clip_lower_x4.stl,59,10,180
+1,C:\Users\Square\Desktop\Voron Project\Voron-2-Voron2.4\STLs\VORON2.4\Z_Idlers\[a]_z_tensioner_x4_9mm.stl,91,15,270
+1,C:\Users\Square\Desktop\Voron Project\Voron-2-Voron2.4\STLs\VORON2.4\Gantry\Front_Idlers\[a]_tensioner_left.stl,23.5,34.5,0
+1,C:\Users\Square\Desktop\Voron Project\Voron-2-Voron2.4\STLs\VORON2.4\Z_Drive\[a]_belt_tensioner_a_x2.stl,65.5,31.5,0
+1,C:\Users\Square\Desktop\Voron Project\Voron-2-Voron2.4\STLs\VORON2.4\Gantry\X_Axis\XY Joints\[a]_xy_joint_cable_bridge_igus.stl,29.5,65.5,180
+1,C:\Users\Square\Desktop\Voron Project\Voron-2-Voron2.4\STLs\VORON2.4\Gantry\[a]_z_belt_clip_upper_x4.stl,99,41,180
+1,C:\Users\Square\Desktop\Voron Project\Voron-2-Voron2.4\STLs\VORON2.4\Gantry\[a]_z_belt_clip_upper_x4.stl,65,53,180
+1,C:\Users\Square\Desktop\Voron Project\Voron-2-Voron2.4\STLs\VORON2.4\Gantry\AB_Drive_Units\[a]_z_chain_retainer_bracket_x2.stl,114,9.5,180
+1,C:\Users\Square\Desktop\Voron Project\Voron-2-Voron2.4\STLs\VORON2.4\Gantry\AB_Drive_Units\[a]_z_chain_retainer_bracket_x2.stl,4,57.5,180
+1,C:\Users\Square\Desktop\Voron Project\Voron-2-Voron2.4\STLs\VORON2.4\Gantry\X_Axis\X Carriage\[a]_belt_clamp_x2.stl,37.5,15,90
+1,C:\Users\Square\Desktop\Voron Project\Voron-2-Voron2.4\STLs\VORON2.4\Z_Drive\[a]_z_drive_baseplate_b_x2.stl,97.5,74,180
+1,C:\Users\Square\Desktop\Voron Project\Voron-2-Voron2.4\STLs\VORON2.4\Gantry\[a]_z_belt_clip_lower_x4.stl,20,77,180
+1,C:\Users\Square\Desktop\Voron Project\Voron-2-Voron2.4\STLs\VORON2.4\Z_Drive\[a]_belt_tensioner_b_x2.stl,61.5,82.5,90
+1,C:\Users\Square\Desktop\Voron Project\Voron-2-Voron2.4\STLs\VORON2.4\Z_Idlers\[a]_z_tensioner_x4_9mm.stl,19,103,270
+1,C:\Users\Square\Desktop\Voron Project\Voron-2-Voron2.4\STLs\VORON2.4\Gantry\X_Axis\X Carriage\Direct Feed\[a]_latch.stl,73.5,102.5,270
+2,C:\Users\Square\Desktop\Voron Project\Voron-2-Voron2.4\STLs\VORON2.4\Gantry\X_Axis\XY Joints\[a]_xy_joint_cable_bridge_befenbay.stl,35,21.5,90
+2,C:\Users\Square\Desktop\Voron Project\Voron-2-Voron2.4\STLs\VORON2.4\Gantry\X_Axis\XY Joints\[a]_endstop_pod_microswitch.stl,67,20,270
+2,C:\Users\Square\Desktop\Voron Project\Voron-2-Voron2.4\STLs\VORON2.4\Z_Idlers\[a]_z_tensioner_x4_9mm.stl,45,47,270
+2,C:\Users\Square\Desktop\Voron Project\Voron-2-Voron2.4\STLs\VORON2.4\Gantry\Front_Idlers\[a]_tensioner_right.stl,86.5,48.5,180
+2,C:\Users\Square\Desktop\Voron Project\Voron-2-Voron2.4\STLs\VORON2.4\Gantry\[a]_z_belt_clip_upper_x4.stl,108,14,270
+2,C:\Users\Square\Desktop\Voron Project\Voron-2-Voron2.4\STLs\VORON2.4\Gantry\[a]_z_belt_clip_lower_x4.stl,10,13,90
+2,C:\Users\Square\Desktop\Voron Project\Voron-2-Voron2.4\STLs\VORON2.4\Z_Drive\[a]_z_drive_baseplate_b_x2.stl,22,80.5,90
+2,C:\Users\Square\Desktop\Voron Project\Voron-2-Voron2.4\STLs\VORON2.4\Gantry\[a]_z_belt_clip_lower_x4.stl,13,52,180
+2,C:\Users\Square\Desktop\Voron Project\Voron-2-Voron2.4\STLs\VORON2.4\Z_Idlers\[a]_z_tensioner_x4_9mm.stl,104,65,0
+2,C:\Users\Square\Desktop\Voron Project\Voron-2-Voron2.4\STLs\VORON2.4\Z_Drive\[a]_belt_tensioner_a_x2.stl,77.5,66.5,270
+2,C:\Users\Square\Desktop\Voron Project\Voron-2-Voron2.4\STLs\VORON2.4\Z_Drive\[a]_belt_tensioner_b_x2.stl,54.5,81.5,90
+2,C:\Users\Square\Desktop\Voron Project\Voron-2-Voron2.4\STLs\VORON2.4\Z_Drive\[a]_z_drive_baseplate_a_x2.stl,87,102.5,270
+2,C:\Users\Square\Desktop\Voron Project\Voron-2-Voron2.4\STLs\VORON2.4\Gantry\X_Axis\X Carriage\Direct Feed\[a]_guidler.stl,23.5,108.5,90
+3,C:\Users\Square\Desktop\Voron Project\Voron-2-Voron2.4\STLs\VORON2.4\Gantry\AB_Drive_Units\[a]_cable_cover.stl,41.5,22.5,0
+3,C:\Users\Square\Desktop\Voron Project\Voron-2-Voron2.4\STLs\VORON2.4\Gantry\X_Axis\X Carriage\[a]_blower_housing_front.stl,54.5,57.5,0
+3,C:\Users\Square\Desktop\Voron Project\Voron-2-Voron2.4\STLs\VORON2.4\Gantry\X_Axis\X Carriage\Direct Feed\[a]_connector_cover.stl,98,26.5,90
+3,C:\Users\Square\Desktop\Voron Project\Voron-2-Voron2.4\STLs\VORON2.4\Z_Drive\[a]_z_drive_baseplate_a_x2.stl,102.5,75,180
