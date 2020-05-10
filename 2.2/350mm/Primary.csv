@@ -1,71 +1,71 @@
 plate,part,posX,posY,rotation
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Gantry\Z_Bearing_Blocks\z_bearing_block_bottom_x4_Rev1.STL,10.5,17.5,180
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Z_Drive\HD_Z_Drive\frame_b_x2_Rev1.STL,36,85.5,0
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Bottom_Skirts_+_Decorative_Parts\Skirts\mains_plug_panel_filtered_x1_Rev1.STL,1,1,0
-1,C:\Users\Square\Desktop\Voron Project\Mobius-Extruder-Mobius3dot1\STLs\VORON_Mobius3dot1_Extruder\front_drive_plate_rev1.STL,17,158,270
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Gantry\Z_Bearing_Blocks\z_bearing_block_top_x4_Rev1.STL,10,195,180
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Gantry\X_Carriage\connector_cover_a_x1_Rev1.stl,23,242,90
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Gantry\XY_Joints\xy_joint_toothed_idler_spacer_1_x2_Rev1.STL,5,120.5,90
-1,C:\Users\Square\Desktop\Voron Project\Mobius-Extruder-Mobius3dot1\STLs\VORON_Mobius3dot1_Extruder\right_side_plate_b_rev1.stl,10.5,296.5,270
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Gantry\AB_Drive\a_drive_frame_upper_x1_Rev1.STL,61,210.5,180
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Electronics_Mounting\meanwell_lrs_bracket_b_x1_Rev2.stl,39.5,302,90
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Gantry\XY_Joints\right_xy_joint_middle_Rev1.STL,72,27.5,180
-1,C:\Users\Square\Desktop\Voron Project\Mobius-Extruder-Mobius3dot1\STLs\VORON_Mobius3dot1_Extruder\left_side_plate_a_rev1.stl,36,282.5,270
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Gantry\Z_Bearing_Blocks\z_bearing_block_top_x4_Rev1.STL,31,14,180
-1,C:\Users\Square\Desktop\Voron Project\Mobius-Extruder-Mobius3dot1\STLs\VORON_Mobius3dot1_Extruder\rear_drive_plate_rev1.STL,83,115,90
-1,C:\Users\Square\Desktop\Voron Project\Mobius-Extruder-Mobius3dot1\STLs\VORON_Mobius3dot1_Extruder\top_plate_rev1.stl,55,217,0
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Gantry\XY_Joints\xy_joint_toothed_idler_spacer_2_x2_Rev1.STL,5.5,323.5,270
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Z_Drive\Z_Idlers\9mm_z_idler_frame_x2_Rev1.STL,85.5,301.5,180
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Z_Drive\HD_Z_Drive\frame_a_x2_Rev1.STL,121.5,32,270
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Electronics_Mounting\meanwell_rs_25_##_mounting_bracket_x1_Rev1.STL,111,187,0
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Tools\rail_installation_guide_offset_x2_Rev1.stl,68,223,270
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Gantry\XY_Joints\xy_joint_toothed_idler_spacer_1_x2_Rev1.STL,5,334.5,90
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Z_Drive\Z_Idlers\9mm_z_idler_frame_x2_Rev1.STL,121.5,87.5,180
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Gantry\Z_Bearing_Blocks\z_bearing_block_bottom_x4_Rev1.STL,110.5,129.5,180
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Gantry\XY_Joints\left_xy_joint_bottom_Rev1.STL,126.5,255,90
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Gantry\Front_Idlers\front_idler_b_lower_x1_Rev1.STL,149,140,90
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Gantry\XY_Joints\xy_joint_idler_spacer_x2_Rev1.STL,26.5,187,90
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Tools\rail_installation_guide_center_x2_Rev1.stl,52.5,325,90
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Gantry\XY_Joints\xy_joint_microswitch_endstop_board_cover_x1_Rev1.STL,162.5,29,90
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Tools\rail_installation_guide_center_x2_Rev1.stl,75,146.5,180
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Gantry\X_Carriage\x_carriage_frame_lhs_x1_Rev1.STL,168.5,191.5,180
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Gantry\XY_Joints\right_xy_joint_bottom_Rev1.STL,151.5,291.5,180
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Gantry\X_Carriage\x_carriage_frame_rhs_x1_Rev1.STL,187.5,69.5,180
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Gantry\Z_Bearing_Blocks\z_bearing_block_bottom_x4_Rev1.STL,110.5,182.5,180
-1,C:\Users\Square\Desktop\Voron Project\Mobius-Extruder-Mobius3dot1\STLs\VORON_Mobius3dot1_Extruder\frame_spacer_rev1.stl,193.5,161.5,180
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Z_Drive\Z_Idlers\9mm_z_idler_frame_mirror_x2_Rev1.stl,199.5,281,90
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Gantry\Front_Idlers\front_idler_a_lower_x1_Rev1.STL,220,28,90
-1,C:\Users\Square\Desktop\Voron Project\Mobius-Extruder-Mobius3dot1\STLs\VORON_Mobius3dot1_Extruder\base_rev1.stl,229,157.5,180
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Gantry\Front_Idlers\front_idler_b_upper_x1_Rev1.STL,226,85,270
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Gantry\XY_Joints\xy_joint_toothed_idler_spacer_2_x2_Rev1.STL,26.5,198.5,270
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Tools\rail_installation_guide_offset_x2_Rev1.stl,85,299.5,180
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Misc\spool_holder_x1_Rev1.stl,234,281,270
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Gantry\XY_Joints\xy_joint_idler_spacer_x2_Rev1.STL,42.5,61.5,180
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Z_Drive\HD_Z_Drive\frame_mirror_b_x2_Rev1.STL,279,49.5,0
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Gantry\Front_Idlers\front_idler_a_upper_x1_Rev1.STL,257.5,211,0
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Gantry\Z_Bearing_Blocks\z_bearing_block_top_x4_Rev1.STL,122,86,90
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Gantry\X_Carriage\connector_cover_b_x1_Rev1.stl,278,132,90
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Z_Drive\HD_Z_Drive\frame_mirror_a_x2_Rev1.STL,268.5,281,270
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Electronics_Mounting\meanwell_lrs_bracket_a_x1_Rev2.stl,58,255.5,180
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Electronics_Mounting\rpi_mounting_bracket_x1_Rev1.stl,299.5,204.5,180
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Gantry\XY_Joints\left_xy_joint_middle_Rev1.STL,290,311.5,180
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Z_Endstop\keyed_back_panel_x1_Rev1.STL,197.5,219,90
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Gantry\X_Carriage\x_carriage_frame_probe_retainer_PL0#_probe_x1_Rev1.STL,83,331.5,90
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Gantry\XY_Joints\left_xy_joint_top_Rev1.STL,1,1,0
-1,C:\Users\Square\Desktop\Voron Project\Mobius-Extruder-Mobius3dot1\STLs\VORON_Mobius3dot1_Extruder\right_side_plate_a_rev1.stl,140,189.5,90
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Z_Endstop\microswitch_pulley_housing_mg2t_20t_x1_Rev1.STL,162,69,270
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Gantry\X_Carriage\Toolhead\4010_v6_+_mosquito_cooling_fan_duct_right_x1_Rev1.STL,291,153.5,90
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Gantry\X_Carriage\Toolhead\4010_v6_+_mosquito_cooling_fan_duct_left_x1_Rev1.STL,1,1,0
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Gantry\X_Carriage\x_carriage_frame_zipchain_bar_+20mm_x1_Rev1.STL,314.5,98.5,0
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Gantry\Z_Bearing_Blocks\z_bearing_block_top_x4_Rev1.STL,181,317,180
-1,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Gantry\Z_Bearing_Blocks\z_bearing_block_bottom_x4_Rev1.STL,301.5,253.5,180
-1,C:\Users\Square\Desktop\Voron Project\Mobius-Extruder-Mobius3dot1\STLs\VORON_Mobius3dot1_Extruder\left_side_plate_b_rev1.stl,326.5,21.5,270
-2,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Gantry\AB_Drive\b_drive_frame_upper_x1_Rev1.STL,29,66.5,270
-2,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Gantry\AB_Drive\a_drive_frame_lower_x1_Rev1.stl,27.5,180,0
-2,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Z_Drive\HD_Z_Drive\frame_mirror_b_x2_Rev1.STL,49.5,283,270
-2,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Gantry\AB_Drive\b_drive_frame_lower_x1_Rev1.STL,81.5,66.5,270
-2,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Z_Drive\HD_Z_Drive\frame_a_x2_Rev1.STL,75.5,158,270
-2,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Z_Drive\HD_Z_Drive\frame_mirror_a_x2_Rev1.STL,84,212.5,180
-2,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Z_Drive\Z_Idlers\9mm_z_idler_frame_mirror_x2_Rev1.stl,129.5,42,90
-2,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Gantry\XY_Joints\right_xy_joint_top_Rev1.STL,124.5,154.5,0
-2,C:\Users\Square\Desktop\Voron Project\Voron-2.2-master\STLs\VORON2.2\Z_Drive\HD_Z_Drive\frame_b_x2_Rev1.STL,135,285.5,0
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Bottom_Skirts_+_Decorative_Parts\Skirts\mains_plug_panel_filtered_x1_Rev1.STL,1,1,0
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Gantry\XY_Joints\left_xy_joint_top_Rev1.STL,1,1,0
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Gantry\X_Carriage\Toolhead\4010_v6_+_mosquito_cooling_fan_duct_left_x1_Rev1.STL,1,1,0
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Gantry\XY_Joints\xy_joint_toothed_idler_spacer_2_x2_Rev1.STL,5.5,5.5,180
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Gantry\XY_Joints\xy_joint_toothed_idler_spacer_2_x2_Rev1.STL,5.5,17.5,180
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Gantry\XY_Joints\xy_joint_toothed_idler_spacer_1_x2_Rev1.STL,5.5,29.5,180
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Gantry\XY_Joints\xy_joint_toothed_idler_spacer_1_x2_Rev1.STL,5.5,41.5,180
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Gantry\XY_Joints\xy_joint_idler_spacer_x2_Rev1.STL,5.5,53.5,180
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Gantry\XY_Joints\xy_joint_idler_spacer_x2_Rev1.STL,5.5,65.5,180
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Gantry\X_Carriage\x_carriage_frame_probe_retainer_PL0#_probe_x1_Rev1.STL,5,91.5,180
+1,D:\Voron\Mobius-Extruder\STLs\VORON_Mobius3dot1_Extruder\top_plate_rev1.stl,20,17,0
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Tools\rail_installation_guide_offset_x2_Rev1.stl,11.5,124.5,270
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Tools\rail_installation_guide_center_x2_Rev1.stl,11.5,152.5,270
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Tools\rail_installation_guide_center_x2_Rev1.stl,23.5,47.5,270
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Tools\rail_installation_guide_offset_x2_Rev1.stl,11.5,180.5,270
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Gantry\Z_Bearing_Blocks\z_bearing_block_top_x4_Rev1.STL,21.5,83.5,180
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Gantry\Z_Bearing_Blocks\z_bearing_block_top_x4_Rev1.STL,10.5,209.5,180
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Gantry\Z_Bearing_Blocks\z_bearing_block_top_x4_Rev1.STL,10.5,239.5,180
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Gantry\Z_Bearing_Blocks\z_bearing_block_top_x4_Rev1.STL,10.5,269.5,180
+1,D:\Voron\Mobius-Extruder\STLs\VORON_Mobius3dot1_Extruder\left_side_plate_a_rev1.stl,7.5,307,90
+1,D:\Voron\Mobius-Extruder\STLs\VORON_Mobius3dot1_Extruder\right_side_plate_a_rev1.stl,38.5,21.5,270
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Gantry\Z_Bearing_Blocks\z_bearing_block_bottom_x4_Rev1.STL,32.5,116.5,180
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Gantry\Z_Bearing_Blocks\z_bearing_block_bottom_x4_Rev1.STL,32.5,152.5,180
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Gantry\Z_Bearing_Blocks\z_bearing_block_bottom_x4_Rev1.STL,44.5,60.5,180
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Gantry\Z_Bearing_Blocks\z_bearing_block_bottom_x4_Rev1.STL,32.5,188.5,180
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Z_Endstop\microswitch_pulley_housing_mg2t_20t_x1_Rev1.STL,34.5,222.5,180
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Z_Endstop\keyed_back_panel_x1_Rev1.STL,30.5,300.5,270
+1,D:\Voron\Mobius-Extruder\STLs\VORON_Mobius3dot1_Extruder\right_side_plate_b_rev1.stl,33,260.5,270
+1,D:\Voron\Mobius-Extruder\STLs\VORON_Mobius3dot1_Extruder\left_side_plate_b_rev1.stl,56,21.5,270
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Electronics_Mounting\meanwell_lrs_bracket_a_x1_Rev2.stl,56.5,98,180
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Gantry\X_Carriage\x_carriage_frame_zipchain_bar_+20mm_x1_Rev1.STL,57.5,138,0
+1,D:\Voron\Mobius-Extruder\STLs\VORON_Mobius3dot1_Extruder\rear_drive_plate_rev1.STL,61,180.5,90
+1,D:\Voron\Mobius-Extruder\STLs\VORON_Mobius3dot1_Extruder\front_drive_plate_rev1.STL,79.5,23,270
+1,D:\Voron\Mobius-Extruder\STLs\VORON_Mobius3dot1_Extruder\frame_spacer_rev1.stl,58,245.5,180
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Gantry\XY_Joints\xy_joint_microswitch_endstop_board_cover_x1_Rev1.STL,83,74.5,270
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Electronics_Mounting\meanwell_lrs_bracket_b_x1_Rev2.stl,40,314.5,0
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Gantry\Front_Idlers\front_idler_a_lower_x1_Rev1.STL,91.5,132,90
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Gantry\Front_Idlers\front_idler_b_lower_x1_Rev1.STL,84.5,226.5,270
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Gantry\Front_Idlers\front_idler_a_upper_x1_Rev1.STL,90.5,291.5,90
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Gantry\Front_Idlers\front_idler_b_upper_x1_Rev1.STL,119.5,29.5,90
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Gantry\XY_Joints\right_xy_joint_top_Rev1.STL,105,171,180
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Gantry\X_Carriage\Toolhead\4010_v6_+_mosquito_cooling_fan_duct_right_x1_Rev1.STL,135.5,84,180
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Gantry\XY_Joints\left_xy_joint_middle_Rev1.STL,133.5,219,0
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Gantry\XY_Joints\right_xy_joint_middle_Rev1.STL,122,296,270
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Z_Drive\HD_Z_Drive\frame_a_x2_Rev1.STL,161.5,62,270
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Z_Drive\HD_Z_Drive\frame_mirror_a_x2_Rev1.STL,155.5,142,270
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Z_Drive\HD_Z_Drive\frame_mirror_a_x2_Rev1.STL,161.5,246.5,0
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Z_Drive\HD_Z_Drive\frame_a_x2_Rev1.STL,183.5,190,270
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Gantry\X_Carriage\connector_cover_a_x1_Rev1.stl,192,23,180
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Gantry\X_Carriage\connector_cover_b_x1_Rev1.stl,175,310,180
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Gantry\X_Carriage\x_carriage_frame_rhs_x1_Rev1.STL,194.5,96.5,180
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Gantry\X_Carriage\x_carriage_frame_lhs_x1_Rev1.STL,226,95,0
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Gantry\XY_Joints\right_xy_joint_bottom_Rev1.STL,218.5,237,180
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Gantry\XY_Joints\left_xy_joint_bottom_Rev1.STL,250,37,0
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Z_Drive\Z_Idlers\9mm_z_idler_frame_mirror_x2_Rev1.stl,248.5,170,180
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Z_Drive\Z_Idlers\9mm_z_idler_frame_mirror_x2_Rev1.stl,249.5,298,180
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Z_Drive\Z_Idlers\9mm_z_idler_frame_x2_Rev1.STL,272,103,90
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Z_Drive\Z_Idlers\9mm_z_idler_frame_x2_Rev1.STL,268,229,90
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Electronics_Mounting\meanwell_rs_25_##_mounting_bracket_x1_Rev1.STL,313.5,174,0
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Electronics_Mounting\rpi_mounting_bracket_x1_Rev1.stl,304,273.5,180
+1,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Gantry\AB_Drive\a_drive_frame_upper_x1_Rev1.STL,299.5,67,180
+2,D:\Voron\Mobius-Extruder\STLs\VORON_Mobius3dot1_Extruder\base_rev1.stl,32,42,180
+2,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Misc\spool_holder_x1_Rev1.stl,31.5,130,270
+2,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Z_Drive\HD_Z_Drive\frame_mirror_b_x2_Rev1.STL,36,226,180
+2,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Z_Drive\HD_Z_Drive\frame_b_x2_Rev1.STL,91.5,133,270
+2,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Z_Drive\HD_Z_Drive\frame_mirror_b_x2_Rev1.STL,113.5,36,270
+2,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Z_Drive\HD_Z_Drive\frame_b_x2_Rev1.STL,108.5,218.5,0
+2,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Gantry\AB_Drive\b_drive_frame_lower_x1_Rev1.STL,67,304,0
+2,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Gantry\AB_Drive\a_drive_frame_lower_x1_Rev1.stl,169,113,0
+2,D:\Voron\Legacy\Voron-2.2\STLs\VORON2.2\Gantry\AB_Drive\b_drive_frame_upper_x1_Rev1.STL,157.5,262,90
