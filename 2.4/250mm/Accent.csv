@@ -1,33 +1,34 @@
 plate,part,posX,posY,rotation
-1,D:\Voron\Voron-2\STLs\VORON2.4\Gantry\X_Axis\X Carriage\Direct Feed\[a]_connector_cover.stl,15,27,90
-1,D:\Voron\Voron-2\STLs\VORON2.4\Z_Drive\[a]_z_drive_baseplate_b_x2.stl,17.5,75,180
-1,D:\Voron\Voron-2\STLs\VORON2.4\Gantry\X_Axis\X Carriage\Direct Feed\[a]_guidler.stl,11,122,0
-1,D:\Voron\Voron-2\STLs\VORON2.4\Z_Drive\[a]_belt_tensioner_b_x2.stl,11,165,270
-1,D:\Voron\Voron-2\STLs\VORON2.4\Z_Drive\[a]_belt_tensioner_a_x2.stl,10.5,203,90
-1,D:\Voron\Voron-2\STLs\VORON2.4\Z_Drive\[a]_belt_tensioner_b_x2.stl,32.5,28,90
-1,D:\Voron\Voron-2\STLs\VORON2.4\Gantry\[a]_z_belt_clip_upper_x4.stl,17.5,225,90
-1,D:\Voron\Voron-2\STLs\VORON2.4\Gantry\X_Axis\X Carriage\[a]_belt_clamp_x2.stl,16,151.5,270
-1,D:\Voron\Voron-2\STLs\VORON2.4\Gantry\[a]_z_belt_clip_lower_x4.stl,33,111,270
-1,D:\Voron\Voron-2\STLs\VORON2.4\Gantry\[a]_z_belt_clip_upper_x4.stl,35.5,139,90
-1,D:\Voron\Voron-2\STLs\VORON2.4\Gantry\Front_Idlers\[a]_tensioner_right.stl,35,178.5,90
-1,D:\Voron\Voron-2\STLs\VORON2.4\Z_Idlers\[a]_z_tensioner_x4_9mm.stl,50.5,64.5,180
-1,D:\Voron\Voron-2\STLs\VORON2.4\Gantry\Front_Idlers\[a]_tensioner_left.stl,45,188.5,90
-1,D:\Voron\Voron-2\STLs\VORON2.4\Gantry\AB_Drive_Units\[a]_cable_cover.stl,69.5,122,270
-1,D:\Voron\Voron-2\STLs\VORON2.4\Gantry\[a]_z_belt_clip_upper_x4.stl,53.5,15,90
-1,D:\Voron\Voron-2\STLs\VORON2.4\Gantry\[a]_z_belt_clip_lower_x4.stl,40,225,270
-1,D:\Voron\Voron-2\STLs\VORON2.4\Gantry\X_Axis\XY Joints\[a]_endstop_pod_microswitch.stl,81.5,29.5,180
-1,D:\Voron\Voron-2\STLs\VORON2.4\Gantry\[a]_z_belt_clip_lower_x4.stl,62,225,270
-1,D:\Voron\Voron-2\STLs\VORON2.4\Z_Drive\[a]_z_drive_baseplate_a_x2.stl,76.5,186,180
-1,D:\Voron\Voron-2\STLs\VORON2.4\Z_Idlers\[a]_z_tensioner_x4_9mm.stl,96.5,78.5,180
-1,D:\Voron\Voron-2\STLs\VORON2.4\Z_Idlers\[a]_z_tensioner_x4_9mm.stl,94.5,124,90
-1,D:\Voron\Voron-2\STLs\VORON2.4\Gantry\AB_Drive_Units\[a]_z_chain_retainer_bracket_x2.stl,45,88.5,270
-1,D:\Voron\Voron-2\STLs\VORON2.4\Gantry\AB_Drive_Units\[a]_z_chain_retainer_bracket_x2.stl,53,34.5,270
-1,D:\Voron\Voron-2\STLs\VORON2.4\Z_Drive\[a]_belt_tensioner_a_x2.stl,103.5,35,90
-1,D:\Voron\Voron-2\STLs\VORON2.4\Gantry\X_Axis\X Carriage\Direct Feed\[a]_latch.stl,95.5,223,270
-1,D:\Voron\Voron-2\STLs\VORON2.4\Z_Idlers\[a]_z_tensioner_x4_9mm.stl,109.5,158.5,180
-1,D:\Voron\Voron-2\STLs\VORON2.4\Gantry\[a]_z_belt_clip_lower_x4.stl,105,191,270
-1,D:\Voron\Voron-2\STLs\VORON2.4\Z_Drive\[a]_z_drive_baseplate_b_x2.stl,131.5,22,180
-1,D:\Voron\Voron-2\STLs\VORON2.4\Gantry\X_Axis\X Carriage\[a]_blower_housing_front.stl,138,75.5,90
-1,D:\Voron\Voron-2\STLs\VORON2.4\Gantry\X_Axis\X Carriage\[a]_belt_clamp_x2.stl,36.5,183.5,180
-1,D:\Voron\Voron-2\STLs\VORON2.4\Gantry\[a]_z_belt_clip_upper_x4.stl,124.5,121,90
-1,D:\Voron\Voron-2\STLs\VORON2.4\Z_Drive\[a]_z_drive_baseplate_a_x2.stl,135.5,200,180
+1,D:\Voron\Voron-2\STLs\VORON2.4\Z_Drive\[a]_belt_tensioner_a_x2.stl,10.5,19,90
+1,D:\Voron\Voron-2\STLs\VORON2.4\Z_Drive\[a]_z_drive_baseplate_a_x2.stl,17.5,59,180
+1,D:\Voron\Voron-2\STLs\VORON2.4\Gantry\[a]_z_belt_clip_lower_x4.stl,11,95,270
+1,D:\Voron\Voron-2\STLs\VORON2.4\Gantry\[a]_z_belt_clip_upper_x4.stl,10.5,123,90
+1,D:\Voron\Voron-2\STLs\VORON2.4\Z_Drive\[a]_z_drive_baseplate_a_x2.stl,17.5,160,180
+1,D:\Voron\Voron-2\STLs\VORON2.4\Z_Drive\[a]_belt_tensioner_b_x2.stl,11,201,270
+1,D:\Voron\Voron-2\STLs\VORON2.4\Gantry\X_Axis\X Carriage\[a]_belt_clamp_x2.stl,16.5,31.5,90
+1,D:\Voron\Voron-2\STLs\VORON2.4\Gantry\Front_Idlers\[a]_tensioner_right.stl,35,105.5,90
+1,D:\Voron\Voron-2\STLs\VORON2.4\Gantry\X_Axis\X Carriage\Direct Feed\[a]_latch.stl,15,241.5,0
+1,D:\Voron\Voron-2\STLs\VORON2.4\Gantry\X_Axis\X Carriage\Direct Feed\[a]_connector_cover.stl,45,20,180
+1,D:\Voron\Voron-2\STLs\VORON2.4\Z_Idlers\[a]_z_tensioner_x4_9mm.stl,50.5,54.5,180
+1,D:\Voron\Voron-2\STLs\VORON2.4\Gantry\[a]_z_belt_clip_lower_x4.stl,33,196,270
+1,D:\Voron\Voron-2\STLs\VORON2.4\Gantry\[a]_z_belt_clip_lower_x4.stl,43,105,270
+1,D:\Voron\Voron-2\STLs\VORON2.4\Gantry\X_Axis\XY Joints\[a]_xy_joint_cable_bridge_generic.stl,49.5,233.5,90
+1,D:\Voron\Voron-2\STLs\VORON2.4\Z_Idlers\[a]_z_tensioner_x4_9mm.stl,50.5,147.5,180
+1,D:\Voron\Voron-2\STLs\VORON2.4\Z_Idlers\[a]_z_tensioner_x4_9mm.stl,59.5,185.5,180
+1,D:\Voron\Voron-2\STLs\VORON2.4\Z_Drive\[a]_z_drive_baseplate_b_x2.stl,71.5,96,180
+1,D:\Voron\Voron-2\STLs\VORON2.4\Gantry\[a]_z_belt_clip_upper_x4.stl,77.5,50,90
+1,D:\Voron\Voron-2\STLs\VORON2.4\Gantry\X_Axis\X Carriage\[a]_belt_clamp_x2.stl,4.5,228.5,180
+1,D:\Voron\Voron-2\STLs\VORON2.4\Gantry\[a]_z_belt_clip_upper_x4.stl,58.5,249,90
+1,D:\Voron\Voron-2\STLs\VORON2.4\Gantry\AB_Drive_Units\[a]_z_chain_retainer_bracket_x2.stl,49,31.5,270
+1,D:\Voron\Voron-2\STLs\VORON2.4\Z_Idlers\[a]_z_tensioner_x4_9mm.stl,90.5,16,90
+1,D:\Voron\Voron-2\STLs\VORON2.4\Gantry\[a]_z_belt_clip_upper_x4.stl,77.5,134,90
+1,D:\Voron\Voron-2\STLs\VORON2.4\Gantry\AB_Drive_Units\[a]_z_chain_retainer_bracket_x2.stl,49.5,68,180
+1,D:\Voron\Voron-2\STLs\VORON2.4\Gantry\Front_Idlers\[a]_tensioner_left.stl,89.5,172,270
+1,D:\Voron\Voron-2\STLs\VORON2.4\Gantry\X_Axis\X Carriage\Direct Feed\[a]_guidler.stl,100,56,0
+1,D:\Voron\Voron-2\STLs\VORON2.4\Gantry\[a]_z_belt_clip_lower_x4.stl,81,232,270
+1,D:\Voron\Voron-2\STLs\VORON2.4\Gantry\X_Axis\XY Joints\[a]_endstop_pod_microswitch.stl,105.5,110.5,180
+1,D:\Voron\Voron-2\STLs\VORON2.4\Gantry\X_Axis\X Carriage\[a]_blower_housing_front.stl,114,226.5,90
+1,D:\Voron\Voron-2\STLs\VORON2.4\Z_Drive\[a]_belt_tensioner_b_x2.stl,98.5,178,90
+1,D:\Voron\Voron-2\STLs\VORON2.4\Z_Drive\[a]_belt_tensioner_a_x2.stl,115,20.5,180
+1,D:\Voron\Voron-2\STLs\VORON2.4\Z_Drive\[a]_z_drive_baseplate_b_x2.stl,128.5,54,180
+1,D:\Voron\Voron-2\STLs\VORON2.4\Gantry\AB_Drive_Units\[a]_cable_cover.stl,139.5,123,270
